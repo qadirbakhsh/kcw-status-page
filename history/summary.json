@@ -22,18 +22,20 @@
     "url": "http://cms.kinnaird.edu.pk",
     "icon": "https://icons.duckduckgo.com/ip3/cms.kinnaird.edu.pk.ico",
     "slug": "cms-kinnaird-college-for-women",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 741,
     "timeDay": 741,
     "timeWeek": 741,
     "timeMonth": 741,
     "timeYear": 741,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 0
+    }
   },
   {
     "name": "Institutional Repository",
@@ -88,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 0
+      "2025-07-14": 68
     }
   }
 ]
