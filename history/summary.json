@@ -22,19 +22,19 @@
     "url": "http://cms.kinnaird.edu.pk",
     "icon": "https://icons.duckduckgo.com/ip3/cms.kinnaird.edu.pk.ico",
     "slug": "cms-kinnaird-college-for-women",
-    "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
-    "time": 741,
-    "timeDay": 741,
-    "timeWeek": 741,
-    "timeMonth": 741,
-    "timeYear": 741,
+    "status": "up",
+    "uptime": "83.01%",
+    "uptimeDay": "83.01%",
+    "uptimeWeek": "83.01%",
+    "uptimeMonth": "83.01%",
+    "uptimeYear": "83.01%",
+    "time": 801,
+    "timeDay": 801,
+    "timeWeek": 801,
+    "timeMonth": 801,
+    "timeYear": 801,
     "dailyMinutesDown": {
-      "2025-07-14": 0
+      "2025-07-14": 14
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 68
+      "2025-07-14": 81
     }
   }
 ]
