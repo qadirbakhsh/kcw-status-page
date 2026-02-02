@@ -109,18 +109,19 @@
     "url": "https://repository.kinnaird.edu.pk",
     "icon": "https://icons.duckduckgo.com/ip3/repository.kinnaird.edu.pk.ico",
     "slug": "institutional-repository",
-    "status": "up",
-    "uptime": "96.98%",
-    "uptimeDay": "98.05%",
+    "status": "down",
+    "uptime": "96.99%",
+    "uptimeDay": "98.03%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "94.62%",
-    "uptimeYear": "96.98%",
+    "uptimeYear": "96.99%",
     "time": 3600,
     "timeDay": 2514,
     "timeWeek": 2469,
     "timeMonth": 5454,
     "timeYear": 3600,
     "dailyMinutesDown": {
+      "2026-02-02": 0,
       "2026-02-01": 28,
       "2026-01-31": 5,
       "2026-01-30": 26,
@@ -151,8 +152,7 @@
       "2025-10-19": 5,
       "2025-10-16": 5,
       "2025-10-15": 21,
-      "2025-10-11": 5,
-      "2025-10-09": 8
+      "2025-10-11": 5
     }
   },
   {
@@ -233,7 +233,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-02": 375,
+      "2026-02-02": 570,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
