@@ -81,10 +81,10 @@
     "url": "http://cms.kinnaird.edu.pk",
     "icon": "https://icons.duckduckgo.com/ip3/cms.kinnaird.edu.pk.ico",
     "slug": "cms-kinnaird-college-for-women",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.68%",
     "time": 913,
@@ -93,6 +93,7 @@
     "timeMonth": 871,
     "timeYear": 913,
     "dailyMinutesDown": {
+      "2026-02-22": 1,
       "2026-02-02": 9,
       "2026-02-01": 50,
       "2026-01-30": 27,
@@ -117,10 +118,10 @@
     "url": "https://repository.kinnaird.edu.pk",
     "icon": "https://icons.duckduckgo.com/ip3/repository.kinnaird.edu.pk.ico",
     "slug": "institutional-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "96.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.19%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "93.49%",
     "uptimeMonth": "92.13%",
     "uptimeYear": "96.23%",
     "time": 3531,
@@ -129,6 +130,7 @@
     "timeMonth": 2640,
     "timeYear": 3531,
     "dailyMinutesDown": {
+      "2026-02-22": 0,
       "2026-02-16": 461,
       "2026-02-15": 1440,
       "2026-02-14": 1386,
@@ -159,8 +161,7 @@
       "2025-11-08": 1056,
       "2025-11-01": 4,
       "2025-10-25": 18,
-      "2025-10-23": 9,
-      "2025-10-22": 16
+      "2025-10-23": 9
     }
   },
   {
@@ -172,7 +173,7 @@
     "uptime": "93.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.99%",
+    "uptimeMonth": "96.06%",
     "uptimeYear": "93.53%",
     "time": 2463,
     "timeDay": 2208,
@@ -241,7 +242,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-22": 1214,
+      "2026-02-22": 1244,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
