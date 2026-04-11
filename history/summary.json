@@ -4,12 +4,12 @@
     "url": "https://www.kinnaird.edu.pk",
     "icon": "https://icons.duckduckgo.com/ip3/www.kinnaird.edu.pk.ico",
     "slug": "kinnaird-college-for-women",
-    "status": "up",
-    "uptime": "96.11%",
-    "uptimeDay": "94.78%",
+    "status": "down",
+    "uptime": "96.21%",
+    "uptimeDay": "94.77%",
     "uptimeWeek": "95.06%",
     "uptimeMonth": "86.27%",
-    "uptimeYear": "96.11%",
+    "uptimeYear": "96.21%",
     "time": 2754,
     "timeDay": 2808,
     "timeWeek": 2647,
@@ -97,9 +97,7 @@
       "2025-07-29": 441,
       "2025-07-28": 27,
       "2025-07-23": 346,
-      "2025-07-22": 71,
-      "2025-07-18": 314,
-      "2025-07-17": 84
+      "2025-07-22": 71
     }
   },
   {
@@ -277,7 +275,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-11": 111,
+      "2026-04-11": 147,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
